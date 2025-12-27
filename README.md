@@ -4,6 +4,7 @@
 🤖 AI • Machine Learning • Computer Vision  
 🌍 Interested in human-centered technology  
 🧠 **Philosophy:** Technology should help us understand ourselves, not replace us (inspired by Hiroshi Ishiguro).
+
 🏀 **Thesis:** Basketball Shot Analyzer using Computer Vision (MediaPipe, YOLOv8) and Machine Learning. (Will be posted soon!)
 
 
