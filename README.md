@@ -18,21 +18,6 @@
 
 ---
 
-Copilot said: ## 🎨 **CUSTOM GITHUB PROFILE README ΓΙΑ
-🎨 CUSTOM GITHUB PROFILE README ΓΙΑ ΕΣΕΝΑ:
-Markdown
-# Hi there 👋 I'm Savvas! 
-
-🎓 **Digital Systems student** at University of Piraeus, passionate about building AI that augments human capability. 
-
-🏀 **Thesis:** Basketball Shot Analyzer using Computer Vision (MediaPipe, YOLOv8) and Machine Learning. 
-
-🧠 **Philosophy:** Technology should help us understand ourselves, not replace us. 
-
-⚽ **Captain** of my university's football team. 
-
----
-
 ## 💻 Tech Stack:
 
 ### Languages:
@@ -42,16 +27,13 @@ Markdown
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26? style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frameworks & Tools:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB? style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933? style=flat&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF? style=flat&logo=vite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -60,9 +42,11 @@ Markdown
 ![Flask](https://img.shields.io/badge/-Flask-000000? style=flat&logo=flask&logoColor=white)
 
 ### AI/ML & Computer Vision:
-![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat&logoColor=black)
 
 ---
 
