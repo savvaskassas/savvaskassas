@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Savvas!
 
 🎓 Digital Systems student  
-🤖 AI • Machine Learning • Computer Vision  
-🌍 Interested in human-centered technology  
+🤖 AI • Machine Learning • Computer Vision    
 🧠 **Philosophy:** Technology should help us understand ourselves, not replace us (inspired by Hiroshi Ishiguro).
 
 🏀 **Thesis:** Basketball Shot Analyzer using Computer Vision (MediaPipe, YOLOv8) and Machine Learning. (Will be posted soon!)
