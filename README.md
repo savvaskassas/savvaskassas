@@ -56,6 +56,9 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat)
+![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ---
 
