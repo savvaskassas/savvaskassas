@@ -39,6 +39,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat&logo=docker&logoColor=white)
+![Edge Functions](https://img.shields.io/badge/Edge_Functions-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![SaaS Architecture](https://img.shields.io/badge/SaaS_Architecture-FF6C37?style=flat&logo=amazonaws&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event_Driven-FF6B6B?style=flat&logo=apache&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-412991?style=flat&logo=openai&logoColor=white)
+![Row Level Security](https://img.shields.io/badge/Row_Level_Security-4169E1?style=flat&logo=postgresql&logoColor=white)
+![shaden/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
 ### AI/ML & Computer Vision:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
