@@ -59,6 +59,5 @@
 
 ## 📫 How to reach me:
 [![Email](https://img.shields.io/badge/-savvaskassas25@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:savvaskassas25@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/savvas-kassas-4773922a2/)]
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savvas-kassas-4773922a2/)
 ---
