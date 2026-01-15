@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - Founder of **ThinkCrafted**, an AI platform focused on human-centered intelligence  
-- Interested in AI ethics, computer vision & real-world applications  
+- Interested in AI innovation, computer vision & real-world applications  
 - Passionate about building technology that augments human capabilities  
 
 ---
